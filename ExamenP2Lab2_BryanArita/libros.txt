@@ -1,0 +1,29 @@
+Cien años de soledad, Gabriel García Márquez, 978-3-16-148410-0
+Don Quijote de la Mancha, Miguel de Cervantes, 978-1-56619-909-4
+La casa de los espíritus, Isabel Allende, 978-0-14-028009-8
+El amor en los tiempos del cólera, Gabriel García Márquez, 978-0-394-75916-3
+Crónica de una muerte anunciada, Gabriel García Márquez, 978-0-679-73169-3
+hazard, haland, 09876
+bryan, arita, 5678
+Cien años de soledad,  Gabriel García Márquez,  978-3-16-148410-0
+Don Quijote de la Mancha,  Miguel de Cervantes,  978-1-56619-909-4
+La casa de los espíritus,  Isabel Allende,  978-0-14-028009-8
+El amor en los tiempos del cólera,  Gabriel García Márquez,  978-0-394-75916-3
+Crónica de una muerte anunciada,  Gabriel García Márquez,  978-0-679-73169-3
+hazard,  haland,  09876
+bryan,  arita,  5678
+The Boys, Juan Martin, 12345
+Cien años de soledad,  Gabriel García Márquez,  978-3-16-148410-0
+La casa de los espíritus,  Isabel Allende,  978-0-14-028009-8
+El amor en los tiempos del cólera,  Gabriel García Márquez,  978-0-394-75916-3
+Crónica de una muerte anunciada,  Gabriel García Márquez,  978-0-679-73169-3
+hazard,  haland,  09876
+bryan,  arita,  5678
+Cien años de soledad,   Gabriel García Márquez,   978-3-16-148410-0
+Don Quijote de la Mancha,   Miguel de Cervantes,   978-1-56619-909-4
+La casa de los espíritus,   Isabel Allende,   978-0-14-028009-8
+El amor en los tiempos del cólera,   Gabriel García Márquez,   978-0-394-75916-3
+Crónica de una muerte anunciada,   Gabriel García Márquez,   978-0-679-73169-3
+hazard,   haland,   09876
+bryan,   arita,   5678
+The Boys,  Juan Martin,  12345
